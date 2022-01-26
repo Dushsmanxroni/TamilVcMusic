@@ -7,7 +7,7 @@
 Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
-  <a href="https://github.com/TamilBots/TamilVCMusic/fork">
+  <a href="https://github.com/TamilBots/TamilVCMusic/fork">gh repo clone Dushsmanxroni/TamilVcMusic
     <img src="https://img.shields.io/github/forks/TamilBots/TamilVCMusic?label=Fork&style=social">
     
   </a>
